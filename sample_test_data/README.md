@@ -1,1 +1,1 @@
-
+The dataset used in this project was assembled from publicly available paddy leaf image datasets and subsequently organized and preprocessed for consistency. The final dataset contains four classes: Bacterial Leaf Blight, Brown Spot, Leaf Smut, and Healthy.
