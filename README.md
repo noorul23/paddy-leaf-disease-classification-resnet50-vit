@@ -179,8 +179,8 @@ The repository includes the project documentation and presentation materials:
 
 ```text
 docs/
-├── final_report_v1.pdf
-├── Noorul_final_review.pptx
+├── final_report.pdf
+├── presentation.pptx
 └── abstract.pdf
 ```
 
